@@ -34,8 +34,6 @@ Create Your Presentation
 
 We want to see:
 
-- 1
-
 Share your Presentation
 
 1. Save your presentation as a Google Slide or some other presentation format
